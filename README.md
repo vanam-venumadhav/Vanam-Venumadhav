@@ -16,7 +16,7 @@
 <a href="https://www.codechef.com/users/venumadhav_55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vanamvenumadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a> 
 <a href="https://www.geeksforgeeks.org/user/vanamvenevf7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
-<a href="https://leetcode.com/shivavanam27/" target="blank"><img align="center" src="https://github.com/Harshit-Raj-14/Harshit-Raj-14/assets/98808802/015175ba-1538-43e6-a07c-4dc6d458312d" alt="leetcode" height="30" width="40"/></a>
+<a href="https://leetcode.com/u/vanam-venumadhav//" target="blank"><img align="center" src="https://github.com/Harshit-Raj-14/Harshit-Raj-14/assets/98808802/015175ba-1538-43e6-a07c-4dc6d458312d" alt="leetcode" height="30" width="40"/></a>
 </p>
 	</h3>
 
