@@ -70,9 +70,9 @@ Languages and Tools:
 
   <b>⚡ Github Stats</b>
 	
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VANAM-SHIVA-KUMAR)](https://github.com/VANAM-SHIVA-KUMAR/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanam-venumadhav)](https://github.com/vanam-venumadhav/github-readme-stats)
 	
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VANAM-SHIVA-KUMAR&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanam-venumadhav&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
 
    
 </div>   
