@@ -42,7 +42,7 @@ A web developer and programming enthusiast, I always enjoy discovering new excit
     
 <h4>My Absolute Favorites: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h4>
 
-- 💻 &nbsp; I love coding in Python and exploring AI & Web enthusiastic.
+- 💻 &nbsp; I love coding in Java and exploring AI & Web enthusiastic.
 - 📰 &nbsp; Reading and writing tech blogs whenever possible
 - 🍕 &nbsp; Hackathons & coding competitions
  
