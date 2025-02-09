@@ -1,86 +1,185 @@
-<a href="https://github.com/vanam-venumadhav">
-    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%234AF736&size=35&center=true&vCenter=true&width=600%&lines=Web+Developer;Open+Source+Contributor;AI+Trainer;Prompt+Engineer;Data+Structures+and+Algorithm;Tech+Geek" />
-    </a>
-    <div align=center>
-    <a href="https://VANAM-VENUMADHAV">
-    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-    </a>
-    <h1 align="center">Hi 👋, I'm Vanam Venumadhav</h1>
-    
-<b>Glad to see you here!</b>
+<h1 align="center">Hello 👋, I'm Venumadhav Vanam</h1>
+<h3 align="center">Aspiring Software Engineer | CS Student at SBIT | Machine Learning, Data Science & Full-Stack Enthusiast | Hackathon Winner</h3>
 
-<h3 align="left">Connect with me:
-	<p align="left">
-<a href="https://x.com/VanamVenumadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vanam-venumadhav-b7a254296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/venumadhav_55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vanamvenumadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a> 
-<a href="https://www.geeksforgeeks.org/user/vanamvenevf7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/vanam-venumadhav//" target="blank"><img align="center" src="https://github.com/Harshit-Raj-14/Harshit-Raj-14/assets/98808802/015175ba-1538-43e6-a07c-4dc6d458312d" alt="leetcode" height="30" width="40"/></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanam-venumadhav&label=Profile%20views&color=0e75b6&style=flat" alt="vanam-venumadhav" width="200" height="60"/>
 </p>
-	</h3>
 
-<hr>   
-A web developer and programming enthusiast, I always enjoy discovering new exciting technologies, making new things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms and problem solving.
- 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/man-working-laptop-illustration-work-from-home-mascot-cartoon-character-people-isolated_138676-1075.jpg?w=740">
-	
-<div align="left">
-	
-<h4>🗣 Talking about Personal Stuffs:</h4>
-    
-- 🛠 &nbsp; I'm currently learning Data Structure and Algorithms and doing Competitive Programming.
-- 🏗 &nbsp; Building Websites.
-- 🚀 &nbsp; I’m currently learning React.js and Node.js.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vanam-venumadhav).
-- ✍🏻 &nbsp; I like writing tech blogs and you can read them on my medium blog - https://medium.com/@vanamvenumadhav
-- 👨‍💻 &nbsp; I also like to spend my free time doing open source contribution and challenge myself and develop my skills.
-- 📫 &nbsp; How to reach me: vanamvenumadhav@gmail.com
-    
-    
-<hr>
-    
-<h4>My Absolute Favorites: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h4>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vanam-venumadhav&column=7&margin-w=15&margin-h=15" alt="vanam-venumadhav" />
+  </a>
+</p>
+     
+  
+- 🌱 I’m currently learning **Low Latency, Web3, Block Chain**
 
-- 💻 &nbsp; I love coding in Java and exploring AI & Web enthusiastic.
-- 📰 &nbsp; Reading and writing tech blogs whenever possible
-- 🍕 &nbsp; Hackathons & coding competitions
- 
-<br>   
+- 👨‍💻 All of my projects are available at GitHub.
+
+- 💬 Ask me about **Data Science, Machine Learning**
+
+- 📫 How to reach me **vanamvenumadhav@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/18H8g_MhTkuC8gYCxAvzd0SmgRR-mwre4/view?usp=drive_link](https://drive.google.com/file/d/18H8g_MhTkuC8gYCxAvzd0SmgRR-mwre4/view?usp=drive_link)
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://x.com/VanamVenumadhav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="60" height="60"/></a></td>
+      <td><a href="https://www.linkedin.com/in/vanam-venumadhav-b7a254296/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="60" height="60"/></a></td>
+      <td><a href="https://www.codechef.com/users/venumadhav_55" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" width="60" height="60"/></a></td>
+      <td><a href="https://codeforces.com/profile/vanamvenumadhav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" width="60" height="60"/></a></td>
+      <td><a href="https://www.geeksforgeeks.org/user/venumadhav_vanam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" width="60" height="60"/></a></td>
+      <td><a href="https://leetcode.com/u/vanam-venumadhav/" target="_blank" rel="noreferrer"><img src="https://github.com/Harshit-Raj-14/Harshit-Raj-14/assets/98808802/015175ba-1538-43e6-a07c-4dc6d458312d" alt="leetcode" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
 
 
-<!-- Commented - add when all done
-Languages and Tools:
+<h3 align="center">Programming Languages:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/></a></td>
+      <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a></td>
+      <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a></td>
+      <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="35" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="nextjs"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="flutter"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="redis"></code> 
-</code> -->
-    
- 
-<hr>  
-<!-- <h4> Projects and Dev Stuffs: </h4> -->
+<h3 align="center">Front-End Development:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a></td>
+      <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a></td>
+      <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></a></td>
+      <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a></td>
+      <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
 
-  <b>⚡ Github Stats</b>
-	
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanam-venumadhav)](https://github.com/vanam-venumadhav/github-readme-stats)
-	
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanam-venumadhav&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
+<h3 align="center">Back-End Development:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="60" height="60"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
-   
-</div>   
- 
-<br>
-    
-<div align="center">
-<h3>
-Thank you for reading, Share your ❤️ by starring my useful repositories! And follow me for update on some of my more amazing projects🌟
-</h3>
-</div>
+
+
+<h3 align="center">Databases:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/></a></td>
+      <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/></a></td>
+      <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a></td>
+      <td><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/></a></td>
+      <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<h3 align="center">DevOps:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/></a></td>
+      <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a></td>
+      <td><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/></a></td>
+      <td><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<h3 align="center">Frameworks:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="60" height="60"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+          <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+<h3 align="center">Other Tools:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a></td>
+      <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/></a></td>
+      <td><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/></a></td>
+      <td><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanam-venumadhav&show_icons=true&locale=en&layout=compact" alt="vanam-venumadhav" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanam-venumadhav&show_icons=true&locale=en" alt="vanam-venumadhav" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanam-venumadhav&" alt="vanam-venumadhav" width="600" />
+</p>
+
+
+
